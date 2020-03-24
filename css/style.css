@@ -1,0 +1,18 @@
+/* hier komt de main-container opmaak*/
+.main-container{
+	width: 1500px;
+    height: 1000px;
+}
+
+/* hier komt de footer opmaak */
+.footer{	
+	margin-bottom: 10px;
+	position: relative;
+	width: 99,1%;
+	color: rgb(255, 255, 255);
+	text-align: center;
+	height: 50px;
+	border: 5px solid rgb(0, 0, 0);
+	text-shadow: 3px 1px rgb(0, 0, 0);
+	border-radius: 3px;
+}
